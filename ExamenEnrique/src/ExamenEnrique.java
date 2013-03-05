@@ -7,4 +7,5 @@ public class ExamenEnrique {
 	int quintocambio;
 	int sextocambio;
 	int septimocambio;
+	int cambiorama;
 }
