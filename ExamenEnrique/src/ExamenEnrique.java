@@ -9,4 +9,5 @@ public class ExamenEnrique {
 	int septimocambio;
 	int octavocambio;
 	int novenocambio;
+	int decimocambio;
 }
